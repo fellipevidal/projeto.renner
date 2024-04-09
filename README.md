@@ -33,7 +33,7 @@ Frameworks: JUnit, Selenium, Cucumber.;
 
 Documentos em BDD/Gherkin
 
-
+O projeto foi realizado no padrão Page Objects
 
 <h2>📌 Versão</h2>
 
