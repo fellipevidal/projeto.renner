@@ -17,9 +17,11 @@ Baixar o projeto dentro do github e ter o chromedriver de acordo com o projeto
 <h2>⚙️ Executando os testes</h2>
 Cenário de compras é composto por 4 compras dentro do site "http://www.automationpractice.pl/index.php"
 O usuário cadastrado é testeRenner@gmail.com" e a senha é "123456789", este usuário já está embutido dentro da automação para realizar as compras.
+O cenário é atribuído a tag @Compras onde é possível realizar a troca de tags para execução na classe Executa.
 
 Cenário de cadastro é um teste onde criamos um novo cadastro, a massa de teste tem que ser atualizada, o email e outras atribuições a massa é editável dentro do package runner ,
 lá você consegue editar email para realizar o cadastro, e as informações do formulário onde é preenchido.
+O cenário é atribuído a tag @Cadastro onde é possível realizar a troca de tags para execução na classe Executa.
 
 
 <h2>🔩 Analise os testes de ponta a ponta</h2>
