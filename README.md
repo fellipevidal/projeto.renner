@@ -28,7 +28,7 @@ O cenário é atribuído a tag @Cadastro onde é possível realizar a troca de t
 
 
 <h2>🔩 Analise os testes de ponta a ponta</h2>
-O testes realizam as principais funções dentro do site, onde você primeiramente faz um login e senha depois realiza as compras,
+O testes realizam as principais funções dentro do site, onde você primeiramente faz um login e senha e  depois realiza as compras,
 também temos o teste de cadastro que será o teste inicial onde o usuário cria sua conta para realizar essas compras dentro do site.
 
 <h2>🛠️ Construído com</h2>
